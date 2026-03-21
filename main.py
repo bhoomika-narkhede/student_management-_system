@@ -1,0 +1,1 @@
+print("Student management sysytem started successfully!")
