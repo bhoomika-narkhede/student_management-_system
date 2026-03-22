@@ -1,4 +1,4 @@
-Student Management System (Python)
+# Student Management System (Python)
 
 This project is a Student Management System built using Python.
 
@@ -9,7 +9,7 @@ This project is a Student Management System built using Python.
 - Update student data
 - Delete student records
 
-#Technologies Used
+# Technologies Used
 - Python
 - Git
 - GitHub
