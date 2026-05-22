@@ -33,7 +33,7 @@ A Student Management System developed using Python that allows users to manage s
 * **students.txt   -> Data Storage File
 
 ## Project Screenshots
-![GUI](GUI .png)
+![GUI](GUI%20.png)
 ![CLI](CLI.png)
 
 
