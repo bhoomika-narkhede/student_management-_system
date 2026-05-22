@@ -1,0 +1,4 @@
+Name: Bhoomika, Roll: 1, Branch: CS, Maths: 87, Science: 89, English: 90, Percentage: 88.66666666666667
+Name: Sakshi, Roll: 2, Branch: IT, Maths: 68, Science: 89, English: 79, Percentage: 78.66666666666667
+Name: Siddhi, Roll: 3, Branch: CS, Maths: 89, Science: 90, English: 95, Percentage: 91.33333333333333
+Name: Pranav, Roll: 11, Branch: IT, Maths: 67, Science: 89, English: 93, Percentage: 83.0
