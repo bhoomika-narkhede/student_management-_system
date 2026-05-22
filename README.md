@@ -33,7 +33,11 @@ A Student Management System developed using Python that allows users to manage s
 main.py        -> CLI Version
 gui_main.py    -> GUI Version
 students.txt   -> Data Storage File
-```
+
+## Project Screenshots
+![GUI](GUI.png)
+![CLI](CLI.png)
+
 
 ## Project Status
 Currently under development and continuously being improved as part of my Computer Science learning journey.
