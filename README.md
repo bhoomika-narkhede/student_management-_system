@@ -28,9 +28,9 @@ A Student Management System developed using Python that allows users to manage s
 - Visual Studio Code
 
 ## Project Structure
-main.py        -> CLI Version
-gui_main.py    -> GUI Version
-students.txt   -> Data Storage File
+* **main.py        -> CLI Version
+* **gui_main.py    -> GUI Version
+* **students.txt   -> Data Storage File
 
 ## Project Screenshots
 ![GUI](GUI .png)
