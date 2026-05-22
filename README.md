@@ -33,7 +33,7 @@ gui_main.py    -> GUI Version
 students.txt   -> Data Storage File
 
 ## Project Screenshots
-![GUI](GUI.png)
+![GUI](GUI .png)
 ![CLI](CLI.png)
 
 
